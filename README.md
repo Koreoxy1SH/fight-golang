@@ -9,3 +9,13 @@ repository ini hanya kebutuhan pribadi saya untuk pembelajaran bahasa pemograman
 ### basic-golang
 
 - [x] helloworld
+- [x] Type data number
+- [x] Type data boolean
+- [x] Type data string
+- [x] Variable
+- [x] Constant
+- [x] Convert Type Data
+- [x] Type Declarations
+- [x] Operator Aritmatika
+- [x] Operasi Perbandingan
+- [x] Operasi Boolean
