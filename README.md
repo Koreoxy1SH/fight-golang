@@ -21,3 +21,13 @@ repository ini hanya kebutuhan pribadi saya untuk pembelajaran bahasa pemograman
 - [x] Operasi Boolean
 - [x] Type data Array
 - [x] Type data Slice
+- [x] Type data Map
+- [x] If Expression
+- [x] Switch Expression
+- [x] For Loops
+- [x] Break & Continue
+- [x] Function
+- [x] Function Parameter
+- [x] Function Return Value
+- [x] Returning Multiple Values
+- [x] Named Return Values
