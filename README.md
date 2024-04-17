@@ -19,3 +19,5 @@ repository ini hanya kebutuhan pribadi saya untuk pembelajaran bahasa pemograman
 - [x] Operator Aritmatika
 - [x] Operasi Perbandingan
 - [x] Operasi Boolean
+- [x] Type data Array
+- [x] Type data Slice
