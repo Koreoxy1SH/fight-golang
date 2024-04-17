@@ -31,3 +31,8 @@ repository ini hanya kebutuhan pribadi saya untuk pembelajaran bahasa pemograman
 - [x] Function Return Value
 - [x] Returning Multiple Values
 - [x] Named Return Values
+- [x] Variadic Function
+- [x] Function Value
+- [x] Function as Parameter
+- [x] Anonymous Function
+- [x] Recursive Function
