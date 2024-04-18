@@ -36,3 +36,10 @@ repository ini hanya kebutuhan pribadi saya untuk pembelajaran bahasa pemograman
 - [x] Function as Parameter
 - [x] Anonymous Function
 - [x] Recursive Function
+- [x] Closures
+- [x] Defer, Panic dan Recover
+- [x] Comment (Komentar)
+- [x] Struct
+- [x] Struct Method
+- [x] Interface
+- [x] Interface Empty (Kosong)
