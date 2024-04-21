@@ -42,4 +42,16 @@ repository ini hanya kebutuhan pribadi saya untuk pembelajaran bahasa pemograman
 - [x] Struct
 - [x] Struct Method
 - [x] Interface
-- [x] Interface Empty (Kosong)
+- [x] Inerface Empty (Kosong)
+- [x] Nil
+- [x] Type Assertions
+- [x] Pointer
+- [x] Asterisk Operator
+- [x] Operator New
+- [x] Pointer di Function
+- [x] Pointer di Method
+- [x] Package & Import
+- [x] Access Modifier
+- [x] Package Initialization
+- [x] Error
+- [x] Make Custome Error
